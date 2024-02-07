@@ -1,4 +1,4 @@
-module github.com/AnthonyPoschen/htmx-learning.git
+module github.com/anthonyposchen/htmx-learning.git
 
 go 1.21.6
 

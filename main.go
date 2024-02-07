@@ -8,7 +8,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/AnthonyPoschen/htmx-learning.git/templates"
+	"github.com/anthonyposchen/htmx-learning.git/templates"
 )
 
 //go:embed dist
